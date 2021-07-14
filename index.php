@@ -306,15 +306,15 @@
                                                 <div class="tab1-features">
                                                     <div class="icon"> <i class="fa fa-star-o"></i> </div>
                                                     <div class="info">
-                                                        <h4>Dedicated Support & Updates</h4>
-                                                        <p>Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet. Et netus et malesuada fames ac turpis egestas tristique senectus. </p>
+                                                        <h4>Openess to Customers</h4>
+                                                        <p>We build an open and trustworthy relationship with our clients. </p>
                                                     </div>
                                                 </div>
                                                 
                                                 <div class="tab1-features">
                                                     <div class="icon"> <i class="fa fa-codepen"></i> </div>
                                                     <div class="info">
-                                                        <h4>multipurpose theme</h4>
+                                                        <h4></h4>
                                                         <p>Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet. Et netus et malesuada fames ac turpis egestas tristique senectus. </p>
                                                     </div>
                                                 </div>
@@ -827,20 +827,7 @@ viverra purus tristique.</p>
 			</section>
   <!--End portfolio-->
  
- 
-   <!--Start Call To Action-->
-   <section id="cta" class="parallax">
-       <div class="overlay"></div>
-         <div class="container">
-             <div class="row text-center">
-                 <h2>Are you ready to buy this theme</h2>
-                 <a href="#" class="btn btn-green">GET A FREE QUOTE</a>
-           </div>
-         </div>
-   </section>
-   <!--End Call To Action-->
-   
-   
+    
     
   <!--Start Team-->
   <section id="team" class="section">
@@ -860,7 +847,6 @@ viverra purus tristique.</p>
                           <img src="images/team/ceo.jpg" alt="CEO"  />
                           <h4>Lawal Moshood Abiola</h4>
                           <h5>Architect & CEO</h5>
-                          <h5>Phone No: <a href="tel:+2347031142347">+234 70311 42347</a></h5>                          
                           <div class="socials">
                               <ul>
                                 <li><a class="phone" href="tel:+234"><i class="fa fa-phone"></i></a></li>
@@ -877,10 +863,9 @@ viverra purus tristique.</p>
                           <img src="images/team/mrobe.jpg" alt="Mr. Obe"  />
                           <h4>Obe Emmanuel ANIVSRSV</h4>
                           <h5>Estate Surveyor and Valuer</h5>
-                          <h5>Phone No: <a href="tel:+2347031142347">+234 70311 42347</a></h5>                          
                           <div class="socials">
                               <ul>
-                                <li><a class="phone" href="#"><i class="fa fa-phone"></i></a></li>
+                                <li><a class="phone" href="tel:+2348068503600"><i class="fa fa-phone"></i></a></li>
                               </ul>
                           </div>
                       </div>
@@ -891,13 +876,9 @@ viverra purus tristique.</p>
                           <img src="images/team/engrbam.jpg" alt="Engr. Bamidele"  />
                           <h4>Bamidele Micheal ENGR.</h4>
                           <h5>Structural Engineer</h5>
-                          <h5>Phone No: <a href="tel:+2347031142347">+234 70311 42347</a></h5>                          
                           <div class="socials">
                               <ul>
-                               <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                               <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-                               <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-                               <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                              <li><a class="phone" href="tel:+2348066478182"><i class="fa fa-phone"></i></a></li>
                               </ul>
                           </div>
                       </div>
@@ -908,13 +889,9 @@ viverra purus tristique.</p>
                           <img src="images/team/team1.jpg" alt="Asekunowo"  />
                           <h4>Asekunowo Damilola</h4>
                           <h5>Architect</h5>
-                          <h5>Phone No: <a href="tel:+2347031142347">+234 70311 42347</a></h5>                          
                           <div class="socials">
                               <ul>
-                               <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                               <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-                               <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-                               <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                              <li><a class="phone" href="tel:+2347066390337"><i class="fa fa-phone"></i></a></li>
                               </ul>
                           </div>
                       </div>
@@ -925,13 +902,9 @@ viverra purus tristique.</p>
                           <img src="images/team/mrseyi.jpg" alt="Mr. Fagite"  />
                           <h4>Fagite Oluwaseyi Benson</h4>
                           <h5>Agent</h5>
-                          <h5>Phone No: <a href="tel:+2347031142347">+234 70311 42347</a></h5>                          
                           <div class="socials">
                               <ul>
-                               <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                               <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-                               <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-                               <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                              <li><a class="phone" href="tel:+2348035823695"><i class="fa fa-phone"></i></a></li>
                               </ul>
                           </div>
                       </div>
@@ -941,11 +914,11 @@ viverra purus tristique.</p>
                         <img src="images/team/mropatola.jpg" alt="Mr. Opatola"  />
                         <h4>Emmanuel Opatola</h4>
                         <h5>IT and Social Media Expert</h5>
-                        <h5>Phone No: <a href="tel:+2347031142347">+234 70311 42347</a></h5>                          
                         <div class="socials">
                             <ul>
-                             <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                             <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a class="phone" href="tel:+2348066478182"><i class="fa fa-phone"></i></a></li>
+                             <li><a class="facebook" href="https://www.facebook.com/profile.php?id=100015506706542"><i class="fa fa-facebook"></i></a></li>
+                             <li><a class="twitter" href=""><i class="fa fa-twitter"></i></a></li>
                              <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
                              <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
                             </ul>
@@ -960,58 +933,6 @@ viverra purus tristique.</p>
   <!--End Team-->
 
 
-    <!--Start Skills-->
-  <section  id="skills" class="section parallax">
-       <div class="overlay"></div>
-       <div class="container">
-           <div class="row">
-                    
-             <div class="title-box text-center white">
-                <h2 class="title">Technical Skills</h2>
-             </div>
-              
-                 <!--Skill #1-->
-                <div class="col-sm-3 col-md-3 col-lg-3 pie-chart-main">
-                    <span class="pie-chart " data-percent="87">
-                        <span class="percent"></span>
-                    </span>
-                    <h4>Photoshop</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div>
-                
-                <!--Skill #2-->
-                <div class="col-sm-3 col-md-3 col-lg-3 pie-chart-main">
-                    <span class="pie-chart" data-percent="75">
-                        <span class="percent"></span>
-                    </span>
-                    <h4>Wordpress</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div>
-                
-                <!--Skill #3-->
-                <div class="col-sm-3 col-md-3 col-lg-3 pie-chart-main">
-                    <span class="pie-chart " data-percent="60">
-                        <span class="percent"></span>
-                    </span>
-                    <h4>Graphic</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div>
-                
-                <!--Skill #4-->
-                <div class="col-sm-3 col-md-3 col-lg-3 pie-chart-main">
-                    <span class="pie-chart" data-percent="95">
-                        <span class="percent"></span>
-                    </span>
-                    <h4>Development</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div>
-
-            
-           </div> <!-- /.row-->
-       </div> <!-- /.container-->
-  </section> 
-  <!--End Skills-->
-
 
     <!-- ======= Venue Section ======= -->
     <section id="venue">
@@ -1025,12 +946,12 @@ viverra purus tristique.</p>
   
           <div class="row g-0">
               <div class="col-lg-6 venue-map">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.475123619259!2d5.138318514299367!3d7.300395015670419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104789357a29fd47%3A0xb51710ce20d7247e!2sAkure%20Tech%20Hub!5e0!3m2!1sen!2sng!4v1622218436527!5m2!1sen!2sng"frameborder="0" style="border:0" allowfullscreen></iframe>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.83887192821!2d5.175116414299189!3d7.259171616188576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10478f0ce3da6443%3A0x7340a78bf5a03a8e!2s94%20Oyemekun%20Rd%2C%20Akure!5e0!3m2!1sen!2sng!4v1625663026356!5m2!1sen!2sng" frameborder="0" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                 </div>
             <div class="col-lg-6 venue-info">
               <div class="row justify-content-center">
                 <div class="col-11 col-lg-8 position-relative">
-                  <h3>Akure Tech Hub, Akure, Ondo State</h3>
+                  <h3>Opposite Ministry of Works and Infrastructure</h3>
                   <p></p>
                 </div>
               </div>
@@ -1150,132 +1071,6 @@ viverra purus tristique.</p>
         </div> <!--/.container-->
    </section> 
   <!--End Services-->
-
- 
-     <!--Start Why Choose us-->
-  <section id="why-choose" class="section">
-       <div class="container">
-           <div class="row">
-           
-                 <div class="title-box text-center">
-                    <h2 class="title">Why Choose us</h2>
-                 </div>
-              
-              <!--start tabs-->
-              <div class="col-md-6">
-                  <div class="tabs tabs-main">
-					<ul class="nav nav-tabs">
-					  <li class="active"><a href="#one" data-toggle="tab">Design</a></li>
-					  <li><a href="#two" data-toggle="tab">Company</a></li>
-					  <li><a href="#three" data-toggle="tab">Support</a></li>
-					</ul>
-					<div class="tab-content">
-
-						<!--Start Tab Item #1 -->
-						<div class="tab-pane in active" id="one">
-							<p>
-								Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt laboredolore magna aliqua. Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt laboredolore magna aliqua. Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt laboredolore magna aliqua. Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt laboredolore magna aliqua. 
-							</p>
-						</div>
-						<!-- End Tab -->
-
-						<!--Start Tab Item #2 -->
-						<div class="tab-pane" id="two">
-							<p>
-								Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt laboredolore magna aliqua. Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt laboredolore magna aliqua. Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt laboredolore magna aliqua.
-							</p>
-						</div>
-						<!-- End Tab -->
-
-						<!--Start Tab Item #3 -->
-						<div class="tab-pane" id="three">
-							<p>
-								Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt laboredolore magna aliqua. Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt laboredolore magna aliqua.
-							</p>
-						</div>
-						<!-- End Tab -->
-
-					</div>
-				</div>
-              </div>
-             <!-- End Tabs-->
-            
-            <!--Start Accordion-->
-            <div class="col-md-6">
-               <div class="panel-group accordion-main" id="accordion">
-                       <!--About accordion #1-->
-				       <div class="panel">
-                           <div class="panel-heading collapsed" data-toggle="collapse"
-                            data-parent="#accordion" data-target="#collapseOne">
-                          <h6 class="panel-title accordion-toggle">
-                              Photography
-                          </h6>
-                        </div>
-					<div id="collapseOne" class="panel-collapse collapse">
-                            <div class="panel-body">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non blandit nibh. Sed eget tortor tincidunt, auctor sem eget, mollis nisi. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor fusce diam ornare.
-                            </p>
-                                
-                        </div>
-					</div>
-				  </div>
-                  
-                  <!--About accordion #2-->
-				  <div class="panel">
-                       <div class="panel-heading collapsed" data-toggle="collapse"
-                        data-parent="#accordion" data-target="#collapseTwo">
-                      <h6 class="panel-title accordion-toggle">
-                          Web Designing
-                      </h6>
-                       </div>
-					<div id="collapseTwo" class="panel-collapse collapse">
-                            <div class="panel-body">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non blandit nibh. Sed eget tortor tincidunt, auctor sem eget, mollis nisi. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor fusce diam ornare.
-                            </p>
-                        </div>
-					</div>
-				  </div>
-
-                 <!--About accordion #3-->
-				  <div class="panel">
-                      <div class="panel-heading collapsed" data-toggle="collapse"
-                            data-parent="#accordion" data-target="#collapseThree">
-                          <h6 class="panel-title accordion-toggle">
-                              Web Development
-                          </h6>
-                        </div>
-					<div id="collapseThree" class="panel-collapse collapse">
-                            <div class="panel-body">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non blandit nibh. Sed eget tortor tincidunt, auctor sem eget, mollis nisi. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor fusce diam ornare.
-                            </p>
-                                
-                        </div>
-					</div>
-				  </div>
-
-                <!--About accordion #4-->
-				 <div class="panel">
-                     <div class="panel-heading collapsed" data-toggle="collapse"
-                            data-parent="#accordion" data-target="#collapseFour">
-                          <h6 class="panel-title accordion-toggle">
-                              Responsive Design
-                          </h6>
-                        </div>
-					<div id="collapseFour" class="panel-collapse collapse">
-                            <div class="panel-body">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non blandit nibh. Sed eget tortor tincidunt, auctor sem eget, mollis nisi. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor fusce diam ornare.
-                            </p>
-                        </div>
-					</div>
-				  </div>
-				</div>
-            </div>
-            <!--End Accordion-->
-              
-           </div> <!--/.row-->
-       </div> <!--/.container-->
-  </section>
-  <!--End Why Choose us-->
 
 
    <!-- Start blog-->
@@ -1521,7 +1316,7 @@ viverra purus tristique.</p>
            <div class="row">
                <!--Start copyright-->
                <div class="col-md-6 col-sm-6 col-xs-6">
-                   <div class="copyright"><p>Copyright © 2016 All Rights reserved by: <a href="http://templatestock.co">Template Stock</a>
+                   <div class="copyright"><p>Copyright © 2021 All Rights reserved by: <a href="C:\xampp\htdocs\koncord\index.php">Koncord Fidrak Construction</a>
                  </p></div>
                </div>
                <!--End copyright-->
